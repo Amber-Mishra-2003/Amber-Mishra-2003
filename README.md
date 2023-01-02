@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amber-mishra-2003&show_icons=true&locale=en&layout=compact" alt="amber-mishra-2003" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amber-mishra-2003&show_icons=true&locale=en" alt="amber-mishra-2003" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amber-mishra-2003&show_icons=true&locale=en" alt="amber-mishra-2003" /></p>
 
 
