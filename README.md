@@ -76,7 +76,6 @@
 
 ## 👨‍💻 About Me
 
-* 💼 Full Stack Software Developer at **Tata Consultancy Services**
 * 🎓 B.Tech in **Artificial Intelligence & Machine Learning**
 * ☕ Working primarily with **Java & Spring Boot**
 * ⚛️ Building applications with **React.js**
