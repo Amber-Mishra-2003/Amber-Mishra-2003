@@ -1,44 +1,37 @@
 [
   {
-    "name": "LeadUnity",
-    "repo": "arifhaxn/lead_unity",
-    "logo": "logo.png",
-    "description": "Leading University's defense setup",
-    "tags": ["Flutter", "Dart", "NextJS"]
+    "name": "SBI Stock Predictor",
+    "repo": "Amber-Mishra-2003/sbi-stock-predictor",
+    "logo": "sbi.png",
+    "description": "AI-powered SBI stock prediction system using XGBoost, LSTM and ARIMA models for stock price forecasting",
+    "tags": ["Python", "XGBoost", "LSTM", "ARIMA", "FastAPI", "React"]
   },
   {
-    "name": "OnePick",
-    "repo": "arifhaxn/one_pick",
-    "logo": "op.png",
-    "description": "An One Piece trivia app to find your character",
-    "tags": ["Flutter", "Dart"]
+    "name": "Face Mask Detection using Deep Learning",
+    "repo": "Amber-Mishra-2003/Machine-Learning-Projects/tree/main/1.%20Face%20Mask%20Detection%20using%20Deep%20Learning",
+    "logo": "mask.png",
+    "description": "Deep learning based system for detecting whether a person is wearing a face mask",
+    "tags": ["Python", "Deep Learning", "TensorFlow", "Keras", "OpenCV"]
   },
   {
-    "name": "Chessy",
-    "repo": "arifhaxn/chessy",
-    "logo": "chess.png",
-    "description": "Chess timer app for all types of variations",
-    "tags": ["Flutter", "Dart"]
+    "name": "Face Emotion Recognition",
+    "repo": "Amber-Mishra-2003/Machine-Learning-Projects/tree/main/2.%20Face%20Emotion%20Recognition%20using%20Haar%20cascade%20classifier",
+    "logo": "emotion.png",
+    "description": "Facial emotion recognition system using Haar cascade classifier and computer vision",
+    "tags": ["Python", "OpenCV", "Haar Cascade", "Deep Learning"]
   },
   {
-    "name": "Claster",
-    "repo": "arifhaxn/Claster",
-    "logo": "claster.png",
-    "description": "A class scheduling app for teachers which is used to track routines",
-    "tags": ["Flutter", "Dart", "Firebase"]
+    "name": "Hand Gesture Recognition",
+    "repo": "Amber-Mishra-2003/Machine-Learning-Projects/tree/main/3.%20Hand%20Gesture%20Recognition%20using%20Keras",
+    "logo": "gesture.png",
+    "description": "Hand gesture recognition system using Keras for identifying different hand gestures",
+    "tags": ["Python", "Keras", "TensorFlow", "Computer Vision"]
   },
   {
-    "name": "OneTELE",
-    "repo": "arifhaxn/OneTELE---Liilab-Teleprompter",
-    "logo": "onetele.png",
-    "description": "A custom teleprompter for liilab's recording studio",
-    "tags": ["Flutter", "Dart"]
-  },
-  {
-    "name": "Career Logic AI",
-    "repo": "arifhaxn/CareerLogic-AI",
-    "logo": "cl.png",
-    "description": "An AI Powered CV management and assesment system for aspiring career builders",
-    "tags": ["Flutter", "Dart", "Groq"]
+    "name": "Object Detection using YOLO",
+    "repo": "Amber-Mishra-2003/Machine-Learning-Projects/tree/main/4.%20Object%20Detection%20using%20YOLO%20algorithm",
+    "logo": "yolo.png",
+    "description": "Real-time object detection system using the YOLO algorithm and computer vision",
+    "tags": ["Python", "YOLO", "OpenCV", "Deep Learning", "Computer Vision"]
   }
 ]
